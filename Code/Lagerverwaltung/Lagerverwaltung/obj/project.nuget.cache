@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "KkCWOWmpTkH+85EncqhiRdjfNQgwQ8Yl3nPo94RKbbRjCNpr62NYL3FSRhdl7C9EtGmZPmmSI4n4Di7FhCvjTw==",
+  "success": true,
+  "projectFilePath": "G:\\DH\\Lagerverwaltung\\Code\\Lagerverwaltung\\Lagerverwaltung\\Lagerverwaltung.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nico\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\Nico\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.116\\stub.system.data.sqlite.core.netstandard.1.0.116.nupkg.sha512",
+    "C:\\Users\\Nico\\.nuget\\packages\\system.data.sqlite.core\\1.0.116\\system.data.sqlite.core.1.0.116.nupkg.sha512"
+  ],
+  "logs": []
+}
